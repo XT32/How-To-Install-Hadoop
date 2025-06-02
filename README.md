@@ -1,8 +1,8 @@
 # Hadoop Multi-Node Cluster Installation and Configuration
 # Instalasi dan Konfigurasi Klaster Hadoop (Multi-Node)
 
-Cara untuk menginstal dan mengonfigurasi klaster Hadoop versi 3.4.1 dengan satu Master Node dan dua Slave Node di Ubuntu Server 24.04 LTS.
 How to install and configure a Hadoop version 3.4.1 cluster with one Master Node and two Slave Nodes on Ubuntu Server 24.04 LTS.
+Cara untuk menginstal dan mengonfigurasi klaster Hadoop versi 3.4.1 dengan satu Master Node dan dua Slave Node di Ubuntu Server 24.04 LTS.
 
 ## Daftar Isi
 
